@@ -5,7 +5,7 @@
         <link href="css/css.css" rel="stylesheet" type="text/css"/>
         <title>Alandalous</title>
     </head>
-    <body> jfourezurzoeur
+    <body> 
         <div id="header">
             <div id="logo">
                 <img src="images/logo.png" class="icone_logo"/>
